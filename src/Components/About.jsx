@@ -24,7 +24,7 @@ const imageAltText = "it is a colorful background for the about section";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a BE student studying at Stanley College of Engineering and Technology for Women. This is my protfolio website. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm a BE student studying at Stanley College of Engineering and Technology for Women. This is my portfolio website. I enjoy creating unique and simplistic user interfaces in creative ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
