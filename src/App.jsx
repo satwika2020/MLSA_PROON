@@ -29,7 +29,7 @@ const siteProps = {
   email: "Chamarthi.GSSatwika@studentambassadors.com",
   gitHub: "satwika2020",
   instagram: "",
-  linkedIn: "Chamarthi G S Satwika",
+  linkedIn: "chamarthi-g-s-satwika",
   medium: "",
   twitter: "",
   youTube: "",
